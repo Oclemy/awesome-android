@@ -26,19 +26,16 @@ A curated alphabetical list of the most awesome android libraries.
 
 ---
 
-## Activity Swipe
+## Activity Swipe 
 
-[Sliding Activity](https://github.com/klinker41/android-slidingactivity)
-
-[Slidr](https://github.com/r0adkll/Slidr)
-
-[Drag Dismiss Activity](https://github.com/klinker24/Android-DragDismissActivity)
-
+[Sliding Activity](https://github.com/klinker41/android-slidingactivity) 
+[Slidr](https://github.com/r0adkll/Slidr) 
+[Drag Dismiss Activity](https://github.com/klinker24/Android-DragDismissActivity) 
 [Swipe Back Layout](https://github.com/gongwen/SwipeBackLayout)
 
 ---
 
 ## JSON
 
-[fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON library with excellent performance.
+[fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON library with excellent performance. 
 [JustJson](https://github.com/apptik/JustJson) -JSON helper library for Android.
