@@ -41,9 +41,15 @@ A curated alphabetical list of the most awesome android libraries.
 
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Screaming fast JSON parsing and serialization library for Android.
 - [fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON library with excellent performance. 
+- [DSL-Json](https://github.com/ngs-doo/dsl-json) - High performance JVM JSON library
 - [JustJson](https://github.com/apptik/JustJson) -JSON helper library for Android.
 - [JSONAPI-Converter](https://github.com/jasminb/jsonapi-converter) - JSONAPI-Converter is a Java/Android library that provides support for working with JSONAPI spec.
-- [jsonloader-library](https://github.com/zainfikrih/jsonloader-library) - Android library to open JSON from assets
+- [jsonloader-library](https://github.com/zainfikrih/jsonloader-library) - Android library to open JSON from assets.
+- [kotlin-jsonapix](https://github.com/infinum/kotlin-jsonapix) - JsonApiX is a Kotlin multiplatform, annotation processor library that was made to transform regular Kotlin classes into their JSON API re
+
+## Maps
+
+- [GeoJsonify](https://github.com/Nextome/GeoJsonify) - Easily add GeoJson layers to your Maps
 
 ## XML
 
