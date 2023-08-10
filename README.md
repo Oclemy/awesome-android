@@ -34,13 +34,15 @@ A curated alphabetical list of the most awesome android libraries.
 - [fastjson2](https://github.com/robinhood/spark) - Android library that enables the creation of sparkline charts. 
 
 ## CSV
+
 - [Android-CSV](https://github.com/abdymm/Android-CSV) -library for exporting data to csv
 
 ## JSON
 
+- [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Screaming fast JSON parsing and serialization library for Android.
 - [fastjson2](https://github.com/alibaba/fastjson2) - FASTJSON2 is a Java JSON library with excellent performance. 
 - [JustJson](https://github.com/apptik/JustJson) -JSON helper library for Android.
-- [SONAPI-Converter](https://github.com/jasminb/jsonapi-converter) - JSONAPI-Converter is a Java/Android library that provides support for working with JSONAPI spec.
+- [JSONAPI-Converter](https://github.com/jasminb/jsonapi-converter) - JSONAPI-Converter is a Java/Android library that provides support for working with JSONAPI spec.
 - [jsonloader-library](https://github.com/zainfikrih/jsonloader-library) - Android library to open JSON from assets
 
 ## XML
