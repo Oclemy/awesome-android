@@ -29,6 +29,12 @@ A curated alphabetical list of the most awesome android libraries.
 
 ---
 
+## App Updater
+
+- [AndroidAppUpdater](https://github.com/p32929/AndroidAppUpdater) - A simple, Lightweight App Updater Library for Android
+
+---
+
 ## Chart
 
 - [fastjson2](https://github.com/robinhood/spark) - Android library that enables the creation of sparkline charts. 
@@ -47,6 +53,18 @@ A curated alphabetical list of the most awesome android libraries.
 
 --- 
 
+## Forms
+
+- [Build-Former](https://github.com/RGirish/Build-Former) - This is a library for building forms dynamically in Android.
+
+---
+
+## HTTP
+
+- [GetJSON](1https://github.com/00rabhkr/GetJSON) - GetJson is the simplest HTTP library to Receive JSON Data from REST Service.
+
+---
+
 ## JSON
 
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare) - Screaming fast JSON parsing and serialization library for Android.
@@ -56,6 +74,7 @@ A curated alphabetical list of the most awesome android libraries.
 - [JSONAPI-Converter](https://github.com/jasminb/jsonapi-converter) - JSONAPI-Converter is a Java/Android library that provides support for working with JSONAPI spec.
 - [jsonloader-library](https://github.com/zainfikrih/jsonloader-library) - Android library to open JSON from assets.
 - [kotlin-jsonapix](https://github.com/infinum/kotlin-jsonapix) - JsonApiX is a Kotlin multiplatform, annotation processor library that was made to transform regular Kotlin classes into their JSON API re
+- [autoparse-json](https://github.com/Workday/autoparse-json) - Autoparse JSON is a java library built specifically for Android that uses code generation to parse JSON into custom objects in your project.
 
 ---
 
