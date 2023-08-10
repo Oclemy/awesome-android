@@ -33,9 +33,19 @@ A curated alphabetical list of the most awesome android libraries.
 
 - [fastjson2](https://github.com/robinhood/spark) - Android library that enables the creation of sparkline charts. 
 
+---
+
+## Configuration
+
+- [konf](https://github.com/uchuhimo/konf) - A type-safe cascading configuration library for Kotlin/Java/Android, supporting most configuration formats.
+
+---
+
 ## CSV
 
 - [Android-CSV](https://github.com/abdymm/Android-CSV) -library for exporting data to csv
+
+--- 
 
 ## JSON
 
@@ -47,13 +57,29 @@ A curated alphabetical list of the most awesome android libraries.
 - [jsonloader-library](https://github.com/zainfikrih/jsonloader-library) - Android library to open JSON from assets.
 - [kotlin-jsonapix](https://github.com/infinum/kotlin-jsonapix) - JsonApiX is a Kotlin multiplatform, annotation processor library that was made to transform regular Kotlin classes into their JSON API re
 
+---
+
+## Layout Inflation
+
+- [Dynamico](https://github.com/jelic98/dynamico) - Android library for inflating dynamic layouts in runtime based on JSON configuration fetched from server.
+
+---
+
 ## Maps
 
 - [GeoJsonify](https://github.com/Nextome/GeoJsonify) - Easily add GeoJson layers to your Maps
+
+---
+
+## Theme
+
+- [Dynamic Theme](https://github.com/pranavpandey/dynamic-theme) - A text (JSON) based theme engine for Android apps.
+
+---
 
 ## XML
 
 - [XmlToJson](https://github.com/smart-fun/XmlToJson) - Android Library for converting XML to JSON and JSON to XML
 
-
+---
 
